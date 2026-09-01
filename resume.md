@@ -1,8 +1,8 @@
-<img src="images/60.jpg"/>
+<img src="images/60.jpg" width="100"/>
 
 Luke Phelps
 =
-<img src="Headshot.png" width="100"/>
+<img src="images/Headshot.png" width="100"/>
 
 #### Appalachian State University, Geography and GIS Graduate Student
 
