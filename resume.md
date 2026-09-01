@@ -1,4 +1,4 @@
-<img src="images/60.jpg" width="900"/>
+<img src="images/60.jpg" width="400"/>
 
 Luke Phelps
 =
